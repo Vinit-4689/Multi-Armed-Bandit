@@ -1,3 +1,5 @@
+![Multi-Armed Bandidt](https://github.com/user-attachments/assets/46916584-a212-4621-b1ac-1f74f69ddb82)
+
 # Multi-Armed Bandit Algorithms
 
 This project implements and compares popular Multi-Armed Bandit algorithms:
