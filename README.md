@@ -1,2 +1,2 @@
 # Multi-Armed-Bandit
-Here I implement Multi-Armed Bandit Algorithm
+Here I implement Multi-Armed Bandit Algorithms
