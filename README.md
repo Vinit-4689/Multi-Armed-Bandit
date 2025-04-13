@@ -71,5 +71,5 @@ This project is open-source and free to use under the MIT license.
 
 ---
 
->** “The more you explore, the better you exploit.” **
+>**“The more you explore, the better you exploit.”**
 
